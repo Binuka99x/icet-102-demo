@@ -1,0 +1,8 @@
+.nav-bar ul{
+    list-style: none;
+
+}
+li{
+    display: inline-block;
+    float: right;
+}
